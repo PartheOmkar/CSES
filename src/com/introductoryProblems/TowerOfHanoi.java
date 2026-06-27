@@ -1,4 +1,4 @@
-package introductoryProblems;
+package com.introductoryProblems;
 
 import java.io.IOException;
 import java.util.Scanner;

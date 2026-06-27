@@ -1,4 +1,4 @@
-package introductoryProblems;
+package com.introductoryProblems;
 
 public class AjayTest1 {
 

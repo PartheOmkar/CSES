@@ -1,4 +1,4 @@
-package introductoryProblems;
+package com.introductoryProblems;
 
 import java.util.LinkedList;
 import java.util.Queue;

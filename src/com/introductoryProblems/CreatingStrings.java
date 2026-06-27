@@ -1,4 +1,4 @@
-package introductoryProblems;
+package com.introductoryProblems;
 
 import java.util.Scanner;
 import java.util.Set;
