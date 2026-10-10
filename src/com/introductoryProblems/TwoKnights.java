@@ -30,10 +30,6 @@ public class TwoKnights {
 				sb.append("0\n");
 				continue;
 			}
-			if(i==2) {
-				sb.append("6\n");
-				continue;
-			}
 			long ans = getCount2(i);
 			sb.append(ans).append("\n");
 		}
